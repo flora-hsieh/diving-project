@@ -6,6 +6,7 @@ Version of Android Studio used: Jellyfish
 Features:
 1.	Splash Screen
 I created a splash screen as the theme of the App, the activities in the app will share the same background which makes it looks more like a fully functioning app.
+ 
  ![image](https://github.com/user-attachments/assets/23d1ac3a-aea3-4fdb-b2d7-2d566f7e52bf)
 
 2.	Google Map API –Fetch Device Location
