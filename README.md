@@ -30,6 +30,7 @@ When there are way too may markers that are pining the spots on the map, the clu
 5.	Dive Site API, Recyclerview – Dive Sites Explore page
 The Dive Site API will be called again as you click on the “Dive Site” button and Bring you to the DiveSiteActivity. It will display a list of the names of dive sites, the region the dive sites are located in, the ocean name of the site and a beautiful photo of scuba diving scenes. 
 I registered another account so I can have another 20 times a day limit just for this function. I created a model DiveSite.java and a DiveSiteAdapter.java for this Activity
+
 ![image](https://github.com/user-attachments/assets/7b2962af-baba-4638-b90c-433518b44a94)
 
  
