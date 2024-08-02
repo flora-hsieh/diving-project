@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DivingProject</string>
+    <string name="map_api_key">AIzaSyCjgURVx7kqkVvnq_IiNH5znNSdymtYotQ</string>
+
+    <string name="chapter_1">General Recommendations</string>
+    <string name="chapter_2">Heart Health</string>
+    <string name="chapter_3">Alcohol, Tobacco and Drugs</string>
+    <string name="chapter_4">Menstruation and Pregnancy</string>
+    <string name="chapter_5">Day-to-Day Health</string>
+    <string name="diver_health_fitness_recommendations">
+        Some general recommendations apply to your health and fitness as a diver:Maintain a reasonable level of physical fitness. This means that you have adequate fitness, plus a physical reserve, for the type of diving you do. Participate in a regular exercise program (see your physician before starting one, however). You don’t have to be a professional athlete – just in good average health.Keep your immunizations current, especially tetanus and typhoid.Eat a well-balanced diet and get adequate rest, especially before diving.It is a good idea to have a physical examination when you start diving, and regularly thereafter. Ideally, have a medical doctor knowledgeable in dive medicine conduct the examination. However, the Diver Medical form directs physicians to uhms.org for medical guidance on medical conditions that will help them to conduct dive physicals. Your instructor will give you this form, or you can download it from padi.com.</string>
+    <string name="heart_health">
+        Like any activity that can cause physical exertion and stress, diving can strain your heart and cardiovascular system. Factors that can do this include exertion from swimming hard, carrying equipment, climbing a ladder, long walks wearing gear, and heat stress from wearing an exposure suit in a hot climate.
+        These factors can cause heart attack in predisposed individuals. They can also be issues for other cardiovascular conditions.
+        If you have or may have risk factors that make it more likely to have heart disease due to your age, lifestyle, body composition, family history or any other factors, be sure to discuss them with your doctor. Your physician can help you assess the risk, and how you can manage that risk as a diver.
+    </string>
+    <string name="drug_use">
+        Never use alcohol or tobacco before diving. Alcohol affects your judgment, and its effects may increase with depth. It also accelerates body heat loss, which can be an issue on cooler dives. Be moderate if drinking the night before diving, because it tends to dehydrate you, which some physiologists think can contribute to decompression sickness risk.
+        Smoking is undeniably harmful to your health, and not a good choice for anyone, but particularly if you live an active lifestyle. If you do smoke, avoid doing so for several hours before and after diving, because it significantly decreases the efficiency of your circulatory and respiratory systems. Smoking theoretically raises the risk of lung overexpansion injury by causing air trapping within your lungs – even when you breathe normally. Nonsmoking tobacco use, including e-cigarettes, seems to pose less immediate risk, though it’s still better to simply avoid nicotine.
+        Drugs can create problems when diving. It’s obvious that you should not be using illegal drugs. However, you also need to use prescription drugs and over-the-counter medications with caution. Any drug that affects your judgment, thinking and/or reactions should generally not be used, but many drugs have no effects that interfere with diving. Always consult your physician. If still in doubt, discontinue diving until you no longer use the medication
+    </string>
+    <string name="menstruation_pregnancy">
+       If menstruation doesn’t normally keep you from doing other active recreations, it’s not likely to affect diving either.Pregnancy differs, and it’s broadly recommended that pregnant women not dive. This isn’t because of a known risk, but rather because there’s not enough known about how diving could affect a developing fetus. It is generally agreed that it’s not worth the risk, and you should not dive while pregnant or trying to become pregnant.
+    </string>
+    <string name="day_to_day">
+    You want to be in good physical and mental health when diving so you can avoid problems and handle them if they occur. So if you feel ill before a dive, cancel the dive. Even a cold can cause problems by trapping air, making it difficult to equalize and in some cases, increasing the risk of lung overexpansion injuries.
+    Don’t use medication to get rid of symptoms just so you can dive while unhealthy. Get well, then resume diving.
+   </string>
+</resources>
